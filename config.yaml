@@ -1,0 +1,21 @@
+title: Stackbit Fresh Theme
+baseURL: /
+params:
+  layout_style: overflow
+  palette: blue
+  header:
+    title: Ben Sinclair
+    tagline: "I've been a professional C, Perl, PHP and Python developer.\r\n\r\nI'm an ex-sysadmin.\r\n\r\nBack in the day, I had a geekcode which I'm not going to share with you.\r\n\r\n418 I'm a teapot."
+    profile_img: >-
+      https://res.cloudinary.com/practicaldev/image/fetch/s--Lr60DUFE--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31518/2785863e-a88c-48ea-9e6e-0ee42b839819.jpg
+    bg: dark
+    has_nav: true
+    has_social: true
+  footer:
+    content: '&copy; All rights reserved.'
+    links:
+      - text: Made with Stackbit
+        url: 'https://www.stackbit.com'
+        new_window: true
+disableKinds:
+  - RSS
