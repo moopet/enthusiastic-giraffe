@@ -1,6 +1,12 @@
 {
     "links": [
         {
+            "type": "mastodon",
+            "title": "Mastodon",
+            "icon": "fa-mastodon",
+            "url": "https://toot.cafe/@moopet"
+        },
+        {
             "type": "twitter",
             "title": "Twitter",
             "icon": "fa-twitter",

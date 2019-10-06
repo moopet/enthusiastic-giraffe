@@ -7,4 +7,4 @@ menu:
     name: Contact
 ---
 
-To get in touch fill the form below.
+To get in touch, fill the form below, and I'll ignore you in due course.
